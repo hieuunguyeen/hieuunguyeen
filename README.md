@@ -11,3 +11,8 @@ Still on the path to learning more.
 - ⚡ Aside from coding, I like 🎮video games, 🎣fishing, 🍸cocktails, ☕coffee and cats 🐈
 
 Reach me through my email under my avatar, or [Linkedin](https://www.linkedin.com/in/hieunguyen245/) !
+
+<br/><br/>
+
+<a href="https://www.credly.com/badges/3c6a79e7-23af-4cc4-8927-dfc3bd267f9c/public_url"><img src="aws-certified-solutions-architect-associate.png" width="20%" alt="AWS Certified Solutions Architect – Associate" /></a>
+<a href="https://www.credly.com/badges/8a44cb38-02ed-453a-82d3-6fbbdcaa6e20/public_url"><img src="aws-certified-solutions-architect-professional.png" width="20%" alt="AWS Certified Solutions Architect – Professional" /></a>
