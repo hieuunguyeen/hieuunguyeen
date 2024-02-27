@@ -6,7 +6,7 @@ I'm a highly adaptable, comfortably multi-tasking person. Still on the path to l
 
 - 🔭 I’m currently working with Serverless, NodeJs, AWS
 - 🌱 Currently learning Kubernetes, Golang
-- I speak Vietnamese, English, some Japanese
+- 🙊 I speak Vietnamese, English, some Japanese
 - ⚡ I like coffee ☕️ and cats 🐈
 
 Reach me through my email under my avatar, or [Linkedin](https://www.linkedin.com/in/hieunguyen245/) !
